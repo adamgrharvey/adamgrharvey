@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Adam Harvey</h1>
 <h2 align="center">Full-Stack Web Developer</h2>
-<h3 align="center">Love to build community through building apps.</h3>
+<h3 align="center">Specialized in building community through building apps!</h3>
 
 
 <br>
