@@ -15,3 +15,11 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ... adamgrharvey@gmail.com
 
 <br>
+
+# 📈 Stats:
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamgrharvey&langs_count=14&hide=yacc,shell&show_icons=true&locale=en&layout=compact" width="45%" alt="adamgrharvey"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=adamgrharvey&show_icons=true&locale=en" width="50%" alt="adamgrharvey" />  
+  
+</p>
