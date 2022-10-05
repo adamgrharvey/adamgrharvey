@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 - 👀 I’m interested in ... Video Games, Dogs (proud Shiba Inu owner/lover), PC Hardware!
-- 🌱 I’m currently learning ... LUA! Building addons for WoW .
-- 💞️ I’m looking to collaborate in ... Community Development - Actively building apps to service community.
+- 🌱 I’m currently learning ... LUA! Building addons for World of Warcraft.
+- 💞️ I’m looking to collaborate in ... Community Development - Actively creating apps to fill voids.
 - 📫 How to reach me ... adamgrharvey@gmail.com
 
 <br>
