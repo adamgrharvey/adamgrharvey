@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 - 👀 I’m interested in ... Video Games, Dogs (proud Shiba Inu owner/lover), PC Hardware!
-- 🌱 I’m currently learning ... LUA! Building addons for World of Warcraft.
+- 🌱 I’m currently learning ... More React.js tools! Building apps to practice new skills.
 - 💞️ I’m looking to collaborate in ... Community Development - Actively creating apps to fill voids.
 - 📫 How to reach me ... adamgrharvey@gmail.com
 
