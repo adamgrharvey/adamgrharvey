@@ -165,6 +165,15 @@ You can click the Preview link to take a look at your changes.
         />
         <br /><strong>PostgreSQL</strong>
       </td>   
+    <td align="center" height="108" width="108">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"
+          width="48"
+          height="48"
+          alt="POSTGRESQL"
+        />
+        <br /><strong>SQLite3</strong>
+      </td> 
   </tr>
   
   <tr>
